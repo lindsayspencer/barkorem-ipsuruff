@@ -1,0 +1,14 @@
+.flex-div{
+    display: flex;
+
+}
+
+.left-div{
+    width: 500px;
+    margin: 10px;
+}
+
+.right-div{
+    width: 300px;
+    margin: 20px;
+}

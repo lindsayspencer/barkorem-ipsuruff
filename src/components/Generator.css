@@ -1,0 +1,10 @@
+.flexform{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.pad{
+    padding: 10px;
+    margin: 10px;
+}
